@@ -36,7 +36,7 @@
 }
 
 .tmsq-scoring-panel-header {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     display: flex;
     padding-bottom: 2rem;
     justify-content: space-between;
@@ -48,7 +48,7 @@
 }
 
 .tmsq-scoring-question-header {
-    font-size: 1.8rem;
+    font-size: 1.1rem;
 }
 
 .tmsq-pagination {
@@ -81,4 +81,9 @@
 .tmsq-auto-save-content-container {
     border: 1px solid black;
     padding: 1rem;
+}
+
+.tmsq-html-area-input h2 {
+    font-size: 1rem;
+    font-weight: 600;
 }
